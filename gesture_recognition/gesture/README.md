@@ -116,9 +116,9 @@ _________________________________________________________________
 
 ​		先将原始数据集增广,然后进行灰度二值化或者hsv处理,最后生成特征数组和标签数组,运行神经网络进行模型训练,调用模型进行结果预测。
 
-    下载模型文件，放入weight文件夹中。
-​		链接：https://pan.baidu.com/s/1juf_ZL39eF2fAYE5hHl_qg 
-​		提取码：gest
+        下载模型文件，放入weight文件夹中。
+​		链接：https://pan.baidu.com/s/15mgnubGLkv3imaJe1s38Og 
+        提取码：gest
 
 ### 		（1）img_main_rename.py 
 
