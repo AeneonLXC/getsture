@@ -1,0 +1,2 @@
+model_checkpoint_path: "gesture.ckpt"
+all_model_checkpoint_paths: "gesture.ckpt"
